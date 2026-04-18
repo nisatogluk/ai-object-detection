@@ -1,10 +1,10 @@
-Industrial Object Detector
+# Industrial Object Detector
 
 This project was developed for the Artificial Intelligence course and focuses on building an industrial object detection system from start to finish. 
 It includes choosing a use case, collecting and labeling data, training and testing models, and preparing the solution for real word use.
 The project also explores improving results and comparing different approaches.
 
-#About the Project
+# About the Project
 This project was developed as part of an Artificial Intelligence course and focuses on building an end-to-end industrial object detection system.
 The system aims to detect industrial components in real-time using a custom-trained model.
 
@@ -13,7 +13,7 @@ The system aims to detect industrial components in real-time using a custom-trai
 - Custom dataset collection and annotation  
 - Model training, evaluation, and comparison  
 
-#Technical Pipeline
+# Technical Pipeline
 1. **Data Collection**  
    Collected images of industrial objects for detection tasks  
 
