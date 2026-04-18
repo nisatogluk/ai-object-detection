@@ -1,0 +1,15 @@
+amp: false
+augment: true
+batch: 16
+conf: 0.25
+data: data.yaml
+device: cuda
+epochs: 50
+imgsz: 640
+iou: 0.7
+lr0: 0.01
+model: yolov8m.pt
+momentum: 0.937
+optimizer: SGD
+patience: 50
+weight_decay: 0.0005

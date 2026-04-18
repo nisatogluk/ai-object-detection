@@ -1,0 +1,28 @@
+[
+  {
+    "class_id": 0,
+    "class_name": "damaged_package",
+    "confidence": 0.5757,
+    "bbox": {
+      "x1": 64.28,
+      "y1": 280.77,
+      "x2": 606.07,
+      "y2": 507.52,
+      "width": 541.79,
+      "height": 226.75
+    }
+  },
+  {
+    "class_id": 1,
+    "class_name": "good_package",
+    "confidence": 0.4309,
+    "bbox": {
+      "x1": 63.1,
+      "y1": 280.64,
+      "x2": 608.45,
+      "y2": 509.14,
+      "width": 545.36,
+      "height": 228.5
+    }
+  }
+]

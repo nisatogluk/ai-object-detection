@@ -1,0 +1,15 @@
+[
+  {
+    "class_id": 1,
+    "class_name": "good_package",
+    "confidence": 0.8978,
+    "bbox": {
+      "x1": 6.62,
+      "y1": 71.32,
+      "x2": 636.14,
+      "y2": 476.45,
+      "width": 629.52,
+      "height": 405.13
+    }
+  }
+]
