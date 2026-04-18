@@ -5,8 +5,9 @@ It includes choosing a use case, collecting and labeling data, training and test
 The project also explores improving results and comparing different approaches.
 
 # About the Project
-This project was developed as part of an Artificial Intelligence course and focuses on building an end-to-end industrial object detection system.
-The system aims to detect industrial components in real-time using a custom-trained model.
+
+Artificial Intelligence project that focuses on creating an end-to-end industrial object detection system.
+The system aims to perform real-time detection using a trained model.
 
 # Features
 - Real-time object detection using YOLOv8  
