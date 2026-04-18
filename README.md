@@ -38,4 +38,7 @@ However, trained model outputs and inference results are provided.
 - Python  
 - YOLOv8 (Ultralytics)  
 - Roboflow  
-- Google Colab  
+- Google Colab
+  
+# Status 
+Improvements are still being made.
